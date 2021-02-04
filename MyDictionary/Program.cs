@@ -30,7 +30,7 @@ namespace MyDictionary
             dizim.ShowList();
 
 
-
+           
 
 
 
